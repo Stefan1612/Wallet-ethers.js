@@ -22,6 +22,7 @@ const tx = {
   nonce: window.ethersProvider.getTransactionCount(send_account, "latest"),
   gasLimit: ethers.utils.hexlify(gas_limit), // 100000
   gasPrice: gas_price,
+  // data: "some Data",
 }
 
 // either
