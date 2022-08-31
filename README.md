@@ -1,5 +1,5 @@
 # Wallet on Ethereum
 
-## Sending any Token (e.g. USDC)
+## 1. Sending any Token (e.g. USDC)
 
-## Sending Ethereum
+## 2. Sending Ethereum
