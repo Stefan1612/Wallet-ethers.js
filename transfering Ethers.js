@@ -4,6 +4,8 @@ import { ethers } from "ethers";
 
 window.ethersProvider = new ethers.providers.InfuraProvider("ropsten")
 
+// or use window.ethereum provider
+
 // setting wallet
 let wallet = new ethers.Wallet(private_key)
 // connect wallet to net
